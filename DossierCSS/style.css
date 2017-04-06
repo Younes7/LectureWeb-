@@ -1,0 +1,38 @@
+.onMetLeFond {
+  background-color: black;
+  height: 100vh; }
+
+.laChanson {
+  height: 75vh; }
+
+.espaceTop {
+  height: 10vh; }
+
+.laPlayliste {
+  height: 80vh; }
+
+.Chanson {
+  height: 15vh;
+  border: 1px solid white; }
+
+.tuMetImage {
+  height: 80vh;
+  border: 1px solid white; }
+
+.tuMetPlayliste {
+  height: 10vh;
+  border: 1px solid white; }
+
+.espaceImagePlayliste {
+  height: 10vh; }
+
+.Like {
+  height: 15vh; }
+
+.espaceEntreChanson {
+  height: 3vh; }
+
+.espacePlayTop {
+  height: 7vh; }
+
+/*# sourceMappingURL=style.css.map */
