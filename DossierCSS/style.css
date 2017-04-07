@@ -1,22 +1,18 @@
 .onMetLeFond {
-  background-color: black;
-  height: 100vh; }
+  background-image: url(../CHANSO/mix.jpg);
+  background-size: cover; }
 
 .laChanson {
-  height: 75vh; }
+  height: 100vh; }
 
 .espaceTop {
   height: 10vh; }
 
-.laPlayliste {
-  height: 80vh; }
-
 .Chanson {
-  height: 15vh;
-  border: 1px solid white; }
+  height: 15vh; }
 
 .tuMetImage {
-  height: 80vh;
+  height: 78vh;
   border: 1px solid white; }
 
 .tuMetPlayliste {
@@ -34,5 +30,23 @@
 
 .espacePlayTop {
   height: 7vh; }
+
+img {
+  height: 100%;
+  width: 100%;
+  box-shadow: 10px 10px 5px #112332;
+  border: 1px solid #f10d0d; }
+
+img:hover {
+  -ms-transform: scale(1.1, 1.1);
+  /* IE 9 */
+  -webkit-transform: scale(1.1, 1.1);
+  /* Safari */
+  transform: scale(1.1, 1.1);
+  transition-duration: 0.5s; }
+
+h3 {
+  color: white;
+  font-family: 'Shojumaru', cursive; }
 
 /*# sourceMappingURL=style.css.map */
